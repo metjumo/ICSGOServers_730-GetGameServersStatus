@@ -2,26 +2,26 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1696975293,
-            "time": "Tue Oct 10 15:01:33 2023"
+            "timestamp": 1696975585,
+            "time": "Tue Oct 10 15:06:25 2023"
         },
         "services": {
-            "SessionsLogon": "normal",
+            "SessionsLogon": "surge",
             "SteamCommunity": "normal",
             "IEconItems": "offline",
             "Leaderboards": "idle"
         },
         "datacenters": {
             "Peru": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "low",
+                "load": "medium"
             },
             "EU Germany": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "low",
+                "load": "medium"
             },
             "EU Austria": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "medium"
             },
             "EU Poland": {
@@ -29,7 +29,7 @@
                 "load": "medium"
             },
             "India East": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "low"
             },
             "Hong Kong": {
@@ -38,18 +38,18 @@
             },
             "EU Spain": {
                 "capacity": "high",
-                "load": "high"
+                "load": "medium"
             },
             "Chile": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "low"
             },
             "US California": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "low",
+                "load": "medium"
             },
             "US Atlanta": {
-                "capacity": "high",
+                "capacity": "low",
                 "load": "medium"
             },
             "India": {
@@ -57,11 +57,11 @@
                 "load": "low"
             },
             "EU Sweden": {
-                "capacity": "full",
+                "capacity": "medium",
                 "load": "low"
             },
             "Emirates": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "low"
             },
             "US Seattle": {
@@ -69,40 +69,40 @@
                 "load": "low"
             },
             "South Africa": {
-                "capacity": "full",
-                "load": "idle"
+                "capacity": "low",
+                "load": "low"
             },
             "Brazil": {
                 "capacity": "high",
                 "load": "medium"
             },
             "US Virginia": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "low",
+                "load": "medium"
             },
             "US Chicago": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "medium",
+                "load": "medium"
             },
             "Japan": {
-                "capacity": "full",
-                "load": "idle"
+                "capacity": "low",
+                "load": "low"
             },
             "EU Holland": {
                 "capacity": "full",
                 "load": "medium"
             },
             "US NewYork": {
-                "capacity": "full",
-                "load": "full"
+                "capacity": "high",
+                "load": "high"
             },
             "EU Finland": {
                 "capacity": "low",
-                "load": "full"
+                "load": "high"
             },
             "Argentina": {
-                "capacity": "full",
-                "load": "low"
+                "capacity": "low",
+                "load": "medium"
             },
             "South Korea": {
                 "capacity": "high",
@@ -110,7 +110,7 @@
             },
             "Singapore": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "Australia": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 187126,
-            "online_players": 481915,
-            "searching_players": 8797,
-            "search_seconds_avg": 57
+            "online_servers": 79724,
+            "online_players": 207589,
+            "searching_players": 3313,
+            "search_seconds_avg": 142
         },
         "perfectworld": {
             "logon": {
