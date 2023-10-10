@@ -1,1 +1,154 @@
-{"result": {"app": {"version": 13960, "timestamp": 1696946648, "time": "Tue Oct 10 07:04:08 2023"}, "services": {"SessionsLogon": "normal", "SteamCommunity": "normal", "IEconItems": "offline", "Leaderboards": "idle"}, "datacenters": {"Peru": {"capacity": "full", "load": "low"}, "EU Germany": {"capacity": "full", "load": "low"}, "EU Austria": {"capacity": "full", "load": "low"}, "EU Poland": {"capacity": "full", "load": "medium"}, "India East": {"capacity": "full", "load": "medium"}, "Hong Kong": {"capacity": "full", "load": "full"}, "EU Spain": {"capacity": "full", "load": "low"}, "Chile": {"capacity": "full", "load": "idle"}, "US California": {"capacity": "full", "load": "idle"}, "US Atlanta": {"capacity": "high", "load": "low"}, "India": {"capacity": "full", "load": "medium"}, "EU Sweden": {"capacity": "full", "load": "medium"}, "Emirates": {"capacity": "full", "load": "low"}, "US Seattle": {"capacity": "full", "load": "idle"}, "South Africa": {"capacity": "full", "load": "low"}, "Brazil": {"capacity": "high", "load": "low"}, "US Virginia": {"capacity": "full", "load": "idle"}, "US Chicago": {"capacity": "full", "load": "low"}, "Japan": {"capacity": "full", "load": "low"}, "EU Holland": {"capacity": "full", "load": "high"}, "US NewYork": {"capacity": "medium", "load": "medium"}, "EU Finland": {"capacity": "low", "load": "full"}, "Argentina": {"capacity": "full", "load": "idle"}, "South Korea": {"capacity": "high", "load": "low"}, "Singapore": {"capacity": "full", "load": "medium"}, "Australia": {"capacity": "full", "load": "low"}, "China Chengdu": {"capacity": "offline", "load": "full"}, "China Shanghai": {"capacity": "full", "load": "medium"}, "China Tianjin": {"capacity": "full", "load": "medium"}, "China Guangzhou": {"capacity": "full", "load": "medium"}}, "matchmaking": {"scheduler": "normal", "online_servers": 235131, "online_players": 1013613, "searching_players": 14162, "search_seconds_avg": 60}, "perfectworld": {"logon": {"availability": "online", "latency": "normal"}, "purchase": {"availability": "online", "latency": "normal"}}}}
+{
+    "result": {
+        "app": {
+            "version": 13960,
+            "timestamp": 1696946770,
+            "time": "Tue Oct 10 07:06:10 2023"
+        },
+        "services": {
+            "SessionsLogon": "normal",
+            "SteamCommunity": "normal",
+            "IEconItems": "offline",
+            "Leaderboards": "idle"
+        },
+        "datacenters": {
+            "Peru": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "EU Germany": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "EU Austria": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "EU Poland": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "India East": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "Hong Kong": {
+                "capacity": "full",
+                "load": "full"
+            },
+            "EU Spain": {
+                "capacity": "high",
+                "load": "low"
+            },
+            "Chile": {
+                "capacity": "full",
+                "load": "idle"
+            },
+            "US California": {
+                "capacity": "full",
+                "load": "idle"
+            },
+            "US Atlanta": {
+                "capacity": "high",
+                "load": "low"
+            },
+            "India": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "EU Sweden": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "Emirates": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "US Seattle": {
+                "capacity": "full",
+                "load": "idle"
+            },
+            "South Africa": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "Brazil": {
+                "capacity": "high",
+                "load": "low"
+            },
+            "US Virginia": {
+                "capacity": "full",
+                "load": "idle"
+            },
+            "US Chicago": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "Japan": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "EU Holland": {
+                "capacity": "full",
+                "load": "high"
+            },
+            "US NewYork": {
+                "capacity": "medium",
+                "load": "medium"
+            },
+            "EU Finland": {
+                "capacity": "low",
+                "load": "full"
+            },
+            "Argentina": {
+                "capacity": "full",
+                "load": "idle"
+            },
+            "South Korea": {
+                "capacity": "high",
+                "load": "low"
+            },
+            "Singapore": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "Australia": {
+                "capacity": "full",
+                "load": "low"
+            },
+            "China Chengdu": {
+                "capacity": "offline",
+                "load": "full"
+            },
+            "China Shanghai": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "China Tianjin": {
+                "capacity": "full",
+                "load": "medium"
+            },
+            "China Guangzhou": {
+                "capacity": "full",
+                "load": "medium"
+            }
+        },
+        "matchmaking": {
+            "scheduler": "normal",
+            "online_servers": 235086,
+            "online_players": 1014898,
+            "searching_players": 14295,
+            "search_seconds_avg": 73
+        },
+        "perfectworld": {
+            "logon": {
+                "availability": "online",
+                "latency": "normal"
+            },
+            "purchase": {
+                "availability": "online",
+                "latency": "normal"
+            }
+        }
+    }
+}
