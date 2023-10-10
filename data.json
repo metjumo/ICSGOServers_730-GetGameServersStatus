@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1696968092,
-            "time": "Tue Oct 10 13:01:32 2023"
+            "timestamp": 1696969893,
+            "time": "Tue Oct 10 13:31:33 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -26,11 +26,11 @@
             },
             "EU Poland": {
                 "capacity": "full",
-                "load": "full"
+                "load": "high"
             },
             "India East": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "Hong Kong": {
                 "capacity": "full",
@@ -38,7 +38,7 @@
             },
             "EU Spain": {
                 "capacity": "high",
-                "load": "medium"
+                "load": "high"
             },
             "Chile": {
                 "capacity": "full",
@@ -58,7 +58,7 @@
             },
             "EU Sweden": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "Emirates": {
                 "capacity": "full",
@@ -74,7 +74,7 @@
             },
             "Brazil": {
                 "capacity": "high",
-                "load": "low"
+                "load": "medium"
             },
             "US Virginia": {
                 "capacity": "full",
@@ -90,11 +90,11 @@
             },
             "EU Holland": {
                 "capacity": "full",
-                "load": "full"
+                "load": "high"
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "EU Finland": {
                 "capacity": "low",
@@ -135,9 +135,9 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 189873,
-            "online_players": 734747,
-            "searching_players": 12610,
+            "online_servers": 189312,
+            "online_players": 674698,
+            "searching_players": 11423,
             "search_seconds_avg": 51
         },
         "perfectworld": {
