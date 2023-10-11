@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697000784,
-            "time": "Tue Oct 10 22:06:24 2023"
+            "timestamp": 1697002584,
+            "time": "Tue Oct 10 22:36:24 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -14,7 +14,7 @@
         "datacenters": {
             "Peru": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "EU Germany": {
                 "capacity": "full",
@@ -58,7 +58,7 @@
             },
             "EU Sweden": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "Emirates": {
                 "capacity": "full",
@@ -82,7 +82,7 @@
             },
             "US Chicago": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "Japan": {
                 "capacity": "full",
@@ -94,7 +94,7 @@
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "full"
+                "load": "high"
             },
             "EU Finland": {
                 "capacity": "full",
@@ -117,8 +117,8 @@
                 "load": "low"
             },
             "China Chengdu": {
-                "capacity": "low",
-                "load": "full"
+                "capacity": "medium",
+                "load": "high"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 197527,
-            "online_players": 456320,
-            "searching_players": 8126,
-            "search_seconds_avg": 86
+            "online_servers": 196360,
+            "online_players": 432586,
+            "searching_players": 7292,
+            "search_seconds_avg": 76
         },
         "perfectworld": {
             "logon": {
