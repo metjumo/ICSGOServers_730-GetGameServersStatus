@@ -2,31 +2,31 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697045780,
-            "time": "Wed Oct 11 10:36:20 2023"
+            "timestamp": 1697047578,
+            "time": "Wed Oct 11 11:06:18 2023"
         },
         "services": {
-            "SessionsLogon": "surge",
+            "SessionsLogon": "normal",
             "SteamCommunity": "normal",
             "IEconItems": "offline",
-            "Leaderboards": "delayed"
+            "Leaderboards": "idle"
         },
         "datacenters": {
             "Peru": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "low"
             },
             "EU Germany": {
                 "capacity": "full",
-                "load": "low"
+                "load": "medium"
             },
             "EU Austria": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "EU Poland": {
                 "capacity": "full",
-                "load": "high"
+                "load": "full"
             },
             "India East": {
                 "capacity": "full",
@@ -90,7 +90,7 @@
             },
             "EU Holland": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "US NewYork": {
                 "capacity": "full",
@@ -122,7 +122,7 @@
             },
             "China Shanghai": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Tianjin": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 198867,
-            "online_players": 601613,
-            "searching_players": 19193,
-            "search_seconds_avg": 64
+            "online_servers": 194811,
+            "online_players": 798891,
+            "searching_players": 13656,
+            "search_seconds_avg": 54
         },
         "perfectworld": {
             "logon": {
