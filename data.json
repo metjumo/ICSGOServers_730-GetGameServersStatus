@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697015165,
-            "time": "Wed Oct 11 02:06:05 2023"
+            "timestamp": 1697016961,
+            "time": "Wed Oct 11 02:36:01 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -14,7 +14,7 @@
         "datacenters": {
             "Peru": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "EU Germany": {
                 "capacity": "full",
@@ -38,7 +38,7 @@
             },
             "EU Spain": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "Chile": {
                 "capacity": "full",
@@ -66,7 +66,7 @@
             },
             "US Seattle": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "South Africa": {
                 "capacity": "full",
@@ -82,7 +82,7 @@
             },
             "US Chicago": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Japan": {
                 "capacity": "full",
@@ -98,7 +98,7 @@
             },
             "EU Finland": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "Argentina": {
                 "capacity": "full",
@@ -114,11 +114,11 @@
             },
             "Australia": {
                 "capacity": "full",
-                "load": "low"
+                "load": "medium"
             },
             "China Chengdu": {
                 "capacity": "low",
-                "load": "full"
+                "load": "high"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 204475,
-            "online_players": 533814,
-            "searching_players": 8178,
-            "search_seconds_avg": 77
+            "online_servers": 204548,
+            "online_players": 538079,
+            "searching_players": 8797,
+            "search_seconds_avg": 62
         },
         "perfectworld": {
             "logon": {
