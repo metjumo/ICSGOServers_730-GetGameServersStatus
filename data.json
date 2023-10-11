@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697056624,
-            "time": "Wed Oct 11 13:37:04 2023"
+            "timestamp": 1697058362,
+            "time": "Wed Oct 11 14:06:02 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -18,11 +18,11 @@
             },
             "EU Germany": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "EU Austria": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "EU Poland": {
                 "capacity": "full",
@@ -54,7 +54,7 @@
             },
             "India": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "EU Sweden": {
                 "capacity": "full",
@@ -90,11 +90,11 @@
             },
             "EU Holland": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "high"
+                "load": "full"
             },
             "EU Finland": {
                 "capacity": "full",
@@ -110,7 +110,7 @@
             },
             "Singapore": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Australia": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 187995,
-            "online_players": 671421,
-            "searching_players": 11964,
-            "search_seconds_avg": 61
+            "online_servers": 187677,
+            "online_players": 598450,
+            "searching_players": 11075,
+            "search_seconds_avg": 60
         },
         "perfectworld": {
             "logon": {
