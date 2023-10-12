@@ -1,9 +1,9 @@
 {
     "result": {
         "app": {
-            "version": 13960,
-            "timestamp": 1697145241,
-            "time": "Thu Oct 12 14:14:01 2023"
+            "version": 13961,
+            "timestamp": 1697147100,
+            "time": "Thu Oct 12 14:45:00 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -13,40 +13,40 @@
         },
         "datacenters": {
             "Peru": {
-                "capacity": "full",
+                "capacity": "medium",
                 "load": "low"
             },
             "EU Germany": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Austria": {
-                "capacity": "full",
-                "load": "medium"
+                "capacity": "high",
+                "load": "idle"
             },
             "EU Poland": {
-                "capacity": "full",
-                "load": "high"
+                "capacity": "high",
+                "load": "idle"
             },
             "India East": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Hong Kong": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Spain": {
-                "capacity": "full",
-                "load": "high"
+                "capacity": "high",
+                "load": "low"
             },
             "Chile": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US California": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US Atlanta": {
                 "capacity": "full",
@@ -54,15 +54,15 @@
             },
             "India": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Sweden": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "idle"
             },
             "Emirates": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US Seattle": {
                 "capacity": "full",
@@ -70,38 +70,38 @@
             },
             "South Africa": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Brazil": {
-                "capacity": "full",
-                "load": "high"
+                "capacity": "offline",
+                "load": "full"
             },
             "US Virginia": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US Chicago": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Japan": {
                 "capacity": "full",
                 "load": "idle"
             },
             "EU Holland": {
-                "capacity": "full",
-                "load": "medium"
+                "capacity": "high",
+                "load": "low"
             },
             "US NewYork": {
-                "capacity": "full",
+                "capacity": "low",
                 "load": "full"
             },
             "EU Finland": {
-                "capacity": "full",
-                "load": "full"
+                "capacity": "high",
+                "load": "low"
             },
             "Argentina": {
-                "capacity": "full",
+                "capacity": "high",
                 "load": "low"
             },
             "South Korea": {
@@ -118,7 +118,7 @@
             },
             "China Chengdu": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 187604,
-            "online_players": 598804,
-            "searching_players": 10577,
-            "search_seconds_avg": 54
+            "online_servers": 180969,
+            "online_players": 446142,
+            "searching_players": 6166,
+            "search_seconds_avg": 56
         },
         "perfectworld": {
             "logon": {
