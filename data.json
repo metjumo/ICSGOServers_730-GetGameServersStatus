@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697130827,
-            "time": "Thu Oct 12 10:13:47 2023"
+            "timestamp": 1697130766,
+            "time": "Thu Oct 12 10:12:46 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -117,7 +117,7 @@
                 "load": "idle"
             },
             "China Chengdu": {
-                "capacity": "high",
+                "capacity": "medium",
                 "load": "medium"
             },
             "China Shanghai": {
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 194688,
-            "online_players": 790543,
-            "searching_players": 13850,
-            "search_seconds_avg": 49
+            "online_servers": 194458,
+            "online_players": 790422,
+            "searching_players": 14181,
+            "search_seconds_avg": 68
         },
         "perfectworld": {
             "logon": {
