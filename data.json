@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697130200,
-            "time": "Thu Oct 12 10:03:20 2023"
+            "timestamp": 1697130261,
+            "time": "Thu Oct 12 10:04:21 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -126,7 +126,7 @@
             },
             "China Tianjin": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Guangzhou": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 195893,
-            "online_players": 790109,
-            "searching_players": 13559,
-            "search_seconds_avg": 60
+            "online_servers": 195542,
+            "online_players": 790114,
+            "searching_players": 13246,
+            "search_seconds_avg": 45
         },
         "perfectworld": {
             "logon": {
