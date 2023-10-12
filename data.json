@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13960,
-            "timestamp": 1697090792,
-            "time": "Wed Oct 11 23:06:32 2023"
+            "timestamp": 1697092590,
+            "time": "Wed Oct 11 23:36:30 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 191597,
-            "online_players": 389111,
-            "searching_players": 6430,
-            "search_seconds_avg": 78
+            "online_servers": 191134,
+            "online_players": 387695,
+            "searching_players": 6575,
+            "search_seconds_avg": 80
         },
         "perfectworld": {
             "logon": {
