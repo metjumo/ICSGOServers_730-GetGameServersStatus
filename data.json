@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13961,
-            "timestamp": 1697183159,
-            "time": "Fri Oct 13 00:45:59 2023"
+            "timestamp": 1697184957,
+            "time": "Fri Oct 13 01:15:57 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -66,7 +66,7 @@
             },
             "US Seattle": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "South Africa": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 202414,
-            "online_players": 415473,
-            "searching_players": 7217,
-            "search_seconds_avg": 77
+            "online_servers": 204839,
+            "online_players": 451344,
+            "searching_players": 7512,
+            "search_seconds_avg": 79
         },
         "perfectworld": {
             "logon": {
