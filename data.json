@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13961,
-            "timestamp": 1697220960,
-            "time": "Fri Oct 13 11:16:00 2023"
+            "timestamp": 1697222753,
+            "time": "Fri Oct 13 11:45:53 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -22,7 +22,7 @@
             },
             "EU Austria": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "EU Poland": {
                 "capacity": "full",
@@ -30,7 +30,7 @@
             },
             "India East": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "Hong Kong": {
                 "capacity": "full",
@@ -58,7 +58,7 @@
             },
             "EU Sweden": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "Emirates": {
                 "capacity": "full",
@@ -90,11 +90,11 @@
             },
             "EU Holland": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "EU Finland": {
                 "capacity": "full",
@@ -118,7 +118,7 @@
             },
             "China Chengdu": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -126,7 +126,7 @@
             },
             "China Tianjin": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Guangzhou": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 204792,
-            "online_players": 823998,
-            "searching_players": 15429,
-            "search_seconds_avg": 60
+            "online_servers": 201799,
+            "online_players": 816020,
+            "searching_players": 15077,
+            "search_seconds_avg": 58
         },
         "perfectworld": {
             "logon": {
