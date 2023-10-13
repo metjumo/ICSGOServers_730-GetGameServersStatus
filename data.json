@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13961,
-            "timestamp": 1697181308,
-            "time": "Fri Oct 13 00:15:08 2023"
+            "timestamp": 1697183159,
+            "time": "Fri Oct 13 00:45:59 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -14,7 +14,7 @@
         "datacenters": {
             "Peru": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Germany": {
                 "capacity": "full",
@@ -22,7 +22,7 @@
             },
             "EU Austria": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "EU Poland": {
                 "capacity": "full",
@@ -74,7 +74,7 @@
             },
             "Brazil": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US Virginia": {
                 "capacity": "full",
@@ -94,15 +94,15 @@
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "EU Finland": {
                 "capacity": "full",
-                "load": "low"
+                "load": "medium"
             },
             "Argentina": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "South Korea": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 201148,
-            "online_players": 400219,
-            "searching_players": 6760,
-            "search_seconds_avg": 84
+            "online_servers": 202414,
+            "online_players": 415473,
+            "searching_players": 7217,
+            "search_seconds_avg": 77
         },
         "perfectworld": {
             "logon": {
