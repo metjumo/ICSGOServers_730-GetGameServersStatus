@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697255146,
-            "time": "Fri Oct 13 20:45:46 2023"
+            "timestamp": 1697256959,
+            "time": "Fri Oct 13 21:15:59 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -46,7 +46,7 @@
             },
             "US California": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "high"
             },
             "US Atlanta": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 202085,
-            "online_players": 454715,
-            "searching_players": 8814,
-            "search_seconds_avg": 84
+            "online_servers": 204101,
+            "online_players": 460673,
+            "searching_players": 9104,
+            "search_seconds_avg": 80
         },
         "perfectworld": {
             "logon": {
