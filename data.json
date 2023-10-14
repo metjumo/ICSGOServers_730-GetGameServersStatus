@@ -1,9 +1,9 @@
 {
     "result": {
         "app": {
-            "version": 13961,
-            "timestamp": 1697239301,
-            "time": "Fri Oct 13 16:21:41 2023"
+            "version": 13962,
+            "timestamp": 1697242581,
+            "time": "Fri Oct 13 17:16:21 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -26,11 +26,11 @@
             },
             "EU Poland": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "India East": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Hong Kong": {
                 "capacity": "full",
@@ -46,7 +46,7 @@
             },
             "US California": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "US Atlanta": {
                 "capacity": "full",
@@ -54,7 +54,7 @@
             },
             "India": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Sweden": {
                 "capacity": "full",
@@ -62,7 +62,7 @@
             },
             "Emirates": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "US Seattle": {
                 "capacity": "full",
@@ -90,15 +90,15 @@
             },
             "EU Holland": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "full"
+                "load": "medium"
             },
             "EU Finland": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "Argentina": {
                 "capacity": "full",
@@ -118,7 +118,7 @@
             },
             "China Chengdu": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 193813,
-            "online_players": 468788,
-            "searching_players": 8507,
-            "search_seconds_avg": 60
+            "online_servers": 193577,
+            "online_players": 343430,
+            "searching_players": 7948,
+            "search_seconds_avg": 68
         },
         "perfectworld": {
             "logon": {
