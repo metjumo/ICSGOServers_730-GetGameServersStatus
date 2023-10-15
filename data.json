@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697395605,
-            "time": "Sun Oct 15 11:46:45 2023"
+            "timestamp": 1697397412,
+            "time": "Sun Oct 15 12:16:52 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -26,7 +26,7 @@
             },
             "EU Poland": {
                 "capacity": "full",
-                "load": "full"
+                "load": "high"
             },
             "India East": {
                 "capacity": "full",
@@ -54,11 +54,11 @@
             },
             "India": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "EU Sweden": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "Emirates": {
                 "capacity": "full",
@@ -135,9 +135,9 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 203060,
-            "online_players": 797700,
-            "searching_players": 14210,
+            "online_servers": 202521,
+            "online_players": 764835,
+            "searching_players": 13808,
             "search_seconds_avg": 57
         },
         "perfectworld": {
