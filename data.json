@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697375821,
-            "time": "Sun Oct 15 06:17:01 2023"
+            "timestamp": 1697377623,
+            "time": "Sun Oct 15 06:47:03 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -38,7 +38,7 @@
             },
             "EU Spain": {
                 "capacity": "full",
-                "load": "low"
+                "load": "medium"
             },
             "Chile": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 232624,
-            "online_players": 974210,
-            "searching_players": 16578,
-            "search_seconds_avg": 61
+            "online_servers": 234391,
+            "online_players": 1025997,
+            "searching_players": 17722,
+            "search_seconds_avg": 62
         },
         "perfectworld": {
             "logon": {
