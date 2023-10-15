@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697406455,
-            "time": "Sun Oct 15 14:47:35 2023"
+            "timestamp": 1697408256,
+            "time": "Sun Oct 15 15:17:36 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -22,7 +22,7 @@
             },
             "EU Austria": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "EU Poland": {
                 "capacity": "full",
@@ -34,7 +34,7 @@
             },
             "Hong Kong": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "EU Spain": {
                 "capacity": "full",
@@ -70,7 +70,7 @@
             },
             "South Africa": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "Brazil": {
                 "capacity": "full",
@@ -118,7 +118,7 @@
             },
             "China Chengdu": {
                 "capacity": "full",
-                "load": "low"
+                "load": "idle"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 196435,
-            "online_players": 492497,
-            "searching_players": 9379,
-            "search_seconds_avg": 52
+            "online_servers": 194882,
+            "online_players": 446056,
+            "searching_players": 8510,
+            "search_seconds_avg": 60
         },
         "perfectworld": {
             "logon": {
