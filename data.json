@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697424422,
-            "time": "Sun Oct 15 19:47:02 2023"
+            "timestamp": 1697426213,
+            "time": "Sun Oct 15 20:16:53 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -30,7 +30,7 @@
             },
             "India East": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "Hong Kong": {
                 "capacity": "full",
@@ -54,7 +54,7 @@
             },
             "India": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "EU Sweden": {
                 "capacity": "full",
@@ -74,7 +74,7 @@
             },
             "Brazil": {
                 "capacity": "full",
-                "load": "medium"
+                "load": "low"
             },
             "US Virginia": {
                 "capacity": "full",
@@ -94,7 +94,7 @@
             },
             "US NewYork": {
                 "capacity": "full",
-                "load": "high"
+                "load": "medium"
             },
             "EU Finland": {
                 "capacity": "full",
@@ -126,19 +126,19 @@
             },
             "China Tianjin": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "China Guangzhou": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             }
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 195179,
-            "online_players": 338705,
-            "searching_players": 6700,
-            "search_seconds_avg": 78
+            "online_servers": 195383,
+            "online_players": 334124,
+            "searching_players": 6522,
+            "search_seconds_avg": 76
         },
         "perfectworld": {
             "logon": {
