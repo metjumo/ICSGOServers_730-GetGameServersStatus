@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697444212,
-            "time": "Mon Oct 16 01:16:52 2023"
+            "timestamp": 1697446065,
+            "time": "Mon Oct 16 01:47:45 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -114,11 +114,11 @@
             },
             "Australia": {
                 "capacity": "full",
-                "load": "low"
+                "load": "medium"
             },
             "China Chengdu": {
                 "capacity": "high",
-                "load": "medium"
+                "load": "high"
             },
             "China Shanghai": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 204676,
-            "online_players": 401358,
-            "searching_players": 6685,
-            "search_seconds_avg": 76
+            "online_servers": 207733,
+            "online_players": 437894,
+            "searching_players": 6823,
+            "search_seconds_avg": 85
         },
         "perfectworld": {
             "logon": {
