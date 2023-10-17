@@ -2,8 +2,8 @@
     "result": {
         "app": {
             "version": 13962,
-            "timestamp": 1697548328,
-            "time": "Tue Oct 17 06:12:08 2023"
+            "timestamp": 1697550132,
+            "time": "Tue Oct 17 06:42:12 2023"
         },
         "services": {
             "SessionsLogon": "normal",
@@ -50,7 +50,7 @@
             },
             "US Atlanta": {
                 "capacity": "full",
-                "load": "idle"
+                "load": "low"
             },
             "India": {
                 "capacity": "full",
@@ -135,10 +135,10 @@
         },
         "matchmaking": {
             "scheduler": "normal",
-            "online_servers": 233916,
-            "online_players": 830534,
-            "searching_players": 12278,
-            "search_seconds_avg": 66
+            "online_servers": 238164,
+            "online_players": 905236,
+            "searching_players": 13341,
+            "search_seconds_avg": 59
         },
         "perfectworld": {
             "logon": {
